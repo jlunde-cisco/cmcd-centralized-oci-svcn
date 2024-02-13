@@ -1,4 +1,4 @@
-# OCI & Multicloud Defense POC Lab Setup
+# Centralized VCN setup for Multicloud Defense within OCI
 
 This repo is intended for a quick and versatile setup of the Oracle SVCN for a centralized Multicloud Defense VCN
 
